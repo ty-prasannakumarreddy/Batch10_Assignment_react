@@ -1,0 +1,18 @@
+.home{
+    align-items: center;
+    margin-top: 150px;
+    margin-left: 700px;
+}
+select{
+    border-radius: 5px;
+    margin-left: 50px;
+    color:brown;
+   
+}
+h1{
+    font-size:50px;
+    font-style: italic;
+}
+label{
+    margin-left: 50px;
+}
